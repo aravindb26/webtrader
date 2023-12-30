@@ -91,7 +91,7 @@
     "kind-of": "^6.0.3",
     "moment": "^2.19.3",
     "npm-modernizr": "^2.8.3",
-    "regenerator-runtime": "^0.10.1",
+    "regenerator-runtime": "^0.14.0",
     "require-css": "^0.1.10",
     "requirejs-text": "^2.0.16",
     "rivets": "0.8.1",
